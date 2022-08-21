@@ -210,7 +210,7 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 
 .site-credits { margin: 0 auto 2em; padding: 0 2em; text-align: center; }
 
-.skip-navigation { background: #fede00; border: 1px dashed transparent; display: block; font-size: .875em; font-weight: 700; margin-top: -2.625rem; padding: .5rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.skip-navigation { background: #ffffff; border: 1px dashed transparent; display: block; font-size: .875em; font-weight: 700; margin-top: -2.625rem; padding: .5rem; text-align: center; text-decoration: none; text-transform: uppercase; }
 
 .skip-navigation:hover, .skip-navigation:focus { background: #ffe00c; border-color: #0b0404; margin-top: 0; }
 
