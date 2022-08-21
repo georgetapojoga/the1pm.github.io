@@ -158,7 +158,7 @@ code.highlighter-rouge { background: #fff5b2; font-family: courier, monospace; f
 /* eb-garamond-regular - latin */
 @font-face { font-family: 'EB Garamond'; font-style: normal; font-weight: 400; font-display: auto; src: url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.eot"); /* IE9 Compat Modes */ src: local("EB Garamond Regular"), local("EBGaramond-Regular"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.eot?#iefix") format("embedded-opentype"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.woff2") format("woff2"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.woff") format("woff"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.ttf") format("truetype"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond") format("svg"); /* Legacy iOS */ }
 
-body { background: #fede00; color: #0b0404; font-family: "EB Garamond", Garamond, "Times New Roman", serif; font-size: 1.3125em; line-height: 1.5; }
+body { background: #ffffff; color: #0b0404; font-family: "EB Garamond", Garamond, "Times New Roman", serif; font-size: 1.3125em; line-height: 1.5; }
 
 h1 { font-size: 3em; margin: .5em auto; }
 
